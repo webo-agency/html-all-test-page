@@ -1,10 +1,6 @@
 # HTML5 Test Page
 
-[![npm version](https://badge.fury.io/js/html5-test-page.svg)](https://badge.fury.io/js/html5-test-page)
-
 This is a test page filled with all HTML elements to be used to provide visual feedback whilst building CSS systems and frameworks.
-
-I have not been able to find a dead-simple, standalone test page out there, so I made one. The HTML elements are loosely categorized as either text, embedded content, or form elements.
 
 ## Versioning
 
@@ -18,8 +14,9 @@ HTML5 Test Page will be maintained using the [Semantic Versioning](http://semver
 
 ## Credits
 
+For internall project fork with additionall elements and fixes
 Made by [@cbracco](http://cbracco.me). This project is based on the [test file](https://github.com/necolas/normalize.css/blob/master/test.html) included in [@necolas](https://github.com/necolas/)’s [normalize.css](https://github.com/necolas/normalize.css/) project.
 
-## [Contributing](CONTRIBUTING.md)
+## License
 
-## [License](LICENSE)
+[MIT](LICENSE)
